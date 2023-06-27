@@ -1,0 +1,25 @@
+/* list area */
+.list-view {
+    -fx-control-inner-background: #eff9ff;
+}
+
+.search-button {
+    -fx-background-color: #eff9ff;
+}
+
+.remove-button {
+    -fx-background-color: #b5cafd;
+    -fx-border-color: #008ec1; 
+    -fx-border-width: 0.5px;
+}
+
+.textArea {
+    -fx-control-inner-background: #fcfcfc;
+    -fx-background-image: url('/EHMR/image/test.png');
+}
+
+/* White background(#FFFFFF)
+.root {
+    -fx-background-color: #FFFFFF; 
+} 
+

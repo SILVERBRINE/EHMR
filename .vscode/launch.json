@@ -1,0 +1,23 @@
+{
+	"version": "0.1.0",
+	"configurations": [
+        {
+            "projectName": "EHMR_eb5e5d5b",
+            "vmArgs": "--module-path lib/javafx-sdk-20.0.1/lib --add-modules javafx.controls,javafx.graphics",
+            "type": "java",
+            "name": "JavaFX Application",
+            "request": "launch",
+            "mainClass": "src.GUI",
+            "args": [
+                "--module-path",
+                "lib",
+                "--add-modules",
+                "javafx.controls,javafx.graphics",
+                "-d",
+                "bin",
+                "src/*.java"
+              ],
+              "cwd": "${workspaceFolder}"
+        }
+    ]
+}
