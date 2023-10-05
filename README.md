@@ -16,3 +16,14 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+[Requirement]
+You need JavaFX to run this program.
+You need to edit PATH of .json files that fit into your system.
+This programe made with VSC JavaSE-17. javaFX SDK 20
+
+If your PC able to run Minecraft java edition, it probably runs by double click of .exe file
+
+Refer data - patients.txt to login with patients
+Master access with login in with doctor / doctor
